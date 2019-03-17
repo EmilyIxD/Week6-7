@@ -37,7 +37,7 @@ function draw() {
   // Check if mouse is inside the circle
   let d = dist(mouseX, mouseY, 50, 50);
   if (d < 10) {
-    // Pick new random color values
+    // Play sound
   rollingsuitcase.play();
   }
 }
