@@ -1,3 +1,3 @@
 # Week6-7
 Homework for weeks 6 and 7 (midterm project)
-Tried to add sound to each ellipse, but could only figure out how to do the first one. After that, if I added another mousePressed function, it wouldn't play the one that came before it, so I left the first one but took out the others. The idea is that each numbered ellipse has a sound attached to it, and the object is to put the sounds in chronological order... 
+Online Editor: https://editor.p5js.org/emily/sketches/DbBtoyaCW
